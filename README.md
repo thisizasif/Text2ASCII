@@ -19,13 +19,13 @@ This is a simple Python script that converts text to ASCII art using the pyfigle
 3. Clone the repository:
 
     ```bash
-    git clone https://github.com/thisizasif/TextToAsciiArtConverter.git
+    git clone https://github.com/thisizasif/Text2ASCII.git
     ```
 
 4. Change to the project directory:
 
     ```bash
-    cd TextToAsciiArtConverter
+    cd Text2Ascii
     ```
 
 5. Install the required dependencies:
@@ -37,7 +37,7 @@ This is a simple Python script that converts text to ASCII art using the pyfigle
 6. Run the script:
 
     ```bash
-    python Text2ASCII.py
+    python TEXT2ASCII.py
     ```
 
 7. Follow the on-screen prompts to enter the text and, optionally, the font name.
